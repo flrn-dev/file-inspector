@@ -42,3 +42,7 @@ npm run dev
 | Light Mode | Dark Mode |
 |------------|-----------|
 | ![](preview-light.png) | ![](preview-dark.png) |
+
+# To-dos
+
+1. Optimieren für Mobilgeräte
