@@ -46,3 +46,4 @@ npm run dev
 # To-dos
 
 1. Optimieren für Mobilgeräte
+2. GitHub-Link einfügen
